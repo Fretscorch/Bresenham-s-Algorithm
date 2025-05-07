@@ -254,7 +254,6 @@ int main(int argc, char* argv[]) {
 		}
 	}
 
-	cout << "Pierce College CS230 Spring 2025 Lab Assignment 2 - Hathaway, Connor\n";
 	cout << "Enter two pairs of point coordinates in the range of 0 to " << IMAGE_SIZE - 1 << ".\n";
 	cin >> x1 >> y1 >> x2 >> y2;
 
